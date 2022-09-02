@@ -12,4 +12,4 @@ For this project, your task was to take the content for the homepage of a bird w
 <br></br>
 
 ### Link to final result: ###
-
+https://jeffgoens.github.io/structuring-a-page-of-content/
